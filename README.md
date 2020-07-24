@@ -14,5 +14,5 @@
 <p align="center">
 <a href="https://linkedin.com/in/thiago-araujo-bezerra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thiago-araujo-bezerra" height="20" width="20" /></a>
 <a href="https://github.com/thiagoasb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="thiagoasb" height="20" width="20" /></a>
- <a href="https://gmail.com/thiagoasbezerra@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="thiagoasbezerra@gmail.com" height="20" width="20" /></a>
+ <a href="https://gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="thiagoasbezerra@gmail.com" height="20" width="20" /></a>
 </p>
