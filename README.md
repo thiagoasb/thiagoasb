@@ -1,4 +1,4 @@
-<img width="auto" src="">
+<!-- <img width="auto" src="https://ik.imagekit.io/thiagoaraujo/banner_5fW1PvyrS.png" > -->
 
 <h1 align="center">Hi 👋, I'm Thiago de Araújo</h1>
 Always studying a lot to became a programmer capable of solve more and more people problems, through programming. 
