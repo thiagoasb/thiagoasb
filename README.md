@@ -6,7 +6,7 @@
 
    I'm currently studying Computer Enginnering at college :computer:
    
-   Technologies: NodeJS, ReactJS, React-Native, TypeScript, Java
+   Technologies: NodeJS, ReactJS, React-Native, TypeScript, Java :rocket:
    
    I like technology, games and HQ's 💬  
    
