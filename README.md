@@ -1,6 +1,6 @@
 <img align="right" width="280" height="400" src="https://ik.imagekit.io/thiagoaraujo/2_-_Mobile_iPhone_-_NLW__02_-_1242x2688_VcEWCSprd.jpg">
 
-# Hi <img src="https://ik.imagekit.io/thiagoaraujo/waving_hand_sign_1024_LnzMG-92SW.gif" width="40px" style="max-width:100%;">, I'm Thiago de Araújo
+# Hi<img src="https://ik.imagekit.io/thiagoaraujo/waving_hand_sign_1024_LnzMG-92SW.gif" width="40px" style="max-width:100%;">, I'm Thiago de Araújo
 
 #### Always studying a lot to became a programmer capable of solve more and more people problems, through programming. 
 
