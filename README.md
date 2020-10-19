@@ -1,4 +1,4 @@
-<img align="right" width="250" height="400" src="https://ik.imagekit.io/thiagoaraujo/Mobile_2_-_NLW__03_-_1242x2688_oWX1fXT8z.jpg">
+<img align="right" width="280" height="500" src="https://ik.imagekit.io/thiagoaraujo/Mobile_2_-_NLW__03_-_1242x2688_oWX1fXT8z.jpg">
 
 # Hi 👋, I'm Thiago de Araújo
 
