@@ -1,4 +1,4 @@
-<img align="right" width="300" height="430" src="https://ik.imagekit.io/thiagoaraujo/2_-_Mobile_iPhone_-_NLW__02_-_1242x2688_VcEWCSprd.jpg">
+<img align="right" width="300" height="430" src="https://ik.imagekit.io/thiagoaraujo/omm11_recortado_BWLA9iTjdT.jpeg">
 
 # Hi 👋, I'm Thiago de Araújo
 
@@ -6,7 +6,7 @@
 
    I'm currently studying Computer Enginnering at college :computer:
    
-   Technologies: NodeJS, ReactJS, React-Native, TypeScript, Java :rocket:
+   Technologies: Python, NodeJS, ReactJS, TypeScript :rocket:
    
    I like technology, games and HQ's 💬  
    
