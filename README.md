@@ -8,7 +8,7 @@
 </div>
 
 ### Technologies:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -29,3 +29,6 @@
    <a href="" target="_blank"><img src="https://img.shields.io/badge/-dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a> 
    <a href="https://app.rocketseat.com.br/me/thiago-de-araujo-silva-bezerra-1566970110" target="_blank"><img src="https://img.shields.io/badge/-rocketseat_app-0A0A0A?style=for-the-badge&logo=rocketseat&logoColor=white" target="_blank"></a>
  </div>
+ 
+##
+Thanks for visiting!
