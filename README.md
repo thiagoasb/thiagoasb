@@ -1,21 +1,31 @@
-<img align="right" width="300" height="430" src="https://ik.imagekit.io/thiagoaraujo/omm11_recortado_BWLA9iTjdT.jpeg">
-
 # Hi 👋, I'm Thiago de Araújo
-
 #### Always studying a lot to became a programmer capable of solve more and more people problems, through programming. 
 
-   I'm currently studying Computer Enginnering at college :computer:
-   
-   Technologies: Python, NodeJS, ReactJS, TypeScript :rocket:
-   
-   I like technology, games and HQ's 💬  
-   
-## :mailbox_with_no_mail: How to reach me:
+<div>
+   <a href="https://github.com/thiagoasb">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoasb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoasb&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagoasb)](https://github.com/thiagoasb)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/thiago-araujo-bezerra)](https://linkedin.com/in/thiago-araujo-bezerra)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagoasbezerra@gmail.com)](mailto:thiagoasbezerra@gmail.com)
-[![Rocketseat Badge](https://img.shields.io/badge/-Rocketseat-purple?style=flat-square&logo=rocketseat&logoColor=purple&link=https://app.rocketseat.com.br/me/thiago-de-araujo-silva-bezerra-1566970110)](https://app.rocketseat.com.br/me/thiago-de-araujo-silva-bezerra-1566970110)
-
-- Thanks for visiting.
-- Let's code!
+### Technologies:
+<div style="display: inline_block"><br>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+</div>
+   
+### How to reach me:
+<div>   
+   <a href="mailto:thiagoasbezerra@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+   <a href="https://linkedin.com/in/thiago-araujo-bezerra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/-dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a> 
+   <a href="https://app.rocketseat.com.br/me/thiago-de-araujo-silva-bezerra-1566970110" target="_blank"><img src="https://img.shields.io/badge/-rocketseat_app-0A0A0A?style=for-the-badge&logo=rocketseat&logoColor=white" target="_blank"></a>
+ </div>
