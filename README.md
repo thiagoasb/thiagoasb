@@ -1,5 +1,5 @@
 # Hi 👋, I'm Thiago de Araújo
-#### Always studying a lot to became a programmer capable of solve more and more people problems, through programming. 
+#### Always learning to became a programmer capable of solve more and more people problems, through programming. 
 
 <div>
    <a href="https://github.com/thiagoasb">
