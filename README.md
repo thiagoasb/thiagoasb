@@ -1,14 +1,20 @@
 # Hi 👋, I'm Thiago de Araújo
 #### Always learning to became a programmer capable of solve more and more people problems, through programming. 
 
+- 🖥️ Currently I am working as Robotic Automation Process
+- 📚 I am studying mobile development, Kotlin and English
+
 <div>
    <a href="https://github.com/thiagoasb">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoasb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoasb&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<!--
+
 ### Technologies:
 <div style="display: inline_block">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -17,10 +23,9 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
 </div>
--->
+
 <!-- 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
