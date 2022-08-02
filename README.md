@@ -1,4 +1,4 @@
-# Hi 👋, I'm Thiago de Araújo
+# Hi 👋, I'm Thiago de Araújo ![](https://visitor-badge.glitch.me/badge?page_id=thiagoaraujo)
 #### Always learning to became a programmer capable of solve more and more people problems, through programming. 
 
 - 🖥️ Currently I am working as Robotic Automation Process
