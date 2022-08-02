@@ -1,6 +1,5 @@
 # Hi 👋, I'm Thiago de Araújo
-<img alt="autor thiagoasb" src="https://img.shields.io/badge/username-thiagoasb-blue">
-<img src="https://komarev.com/ghpvc/?username=thiagoasb&color=blue" alt="Profile views" />
+<img alt="autor thiagoasb" src="https://img.shields.io/badge/username-thiagoasb-blue"> <img src="https://komarev.com/ghpvc/?username=thiagoasb&color=blue" alt="Profile views" />
 
 #### Always learning to became a programmer capable of solve more and more people problems, through programming. 
 
