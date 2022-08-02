@@ -1,5 +1,5 @@
 # Hi 👋, I'm Thiago de Araújo
-![](https://visitor-badge.glitch.me/badge?page_id=thiagoasb)
+<img alt="autor thiagoasb" src="https://img.shields.io/badge/username-thiagoasb-blue"> ![](https://visitor-badge.glitch.me/badge?page_id=thiagoasb)
 
 #### Always learning to became a programmer capable of solve more and more people problems, through programming. 
 
@@ -27,14 +27,8 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
 </div>
-
-<!-- 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
--->
    
-### How to reach me:
+### How to reach me: 
 <div>   
    <a href="mailto:thiagoasbezerra@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
    <a href="https://linkedin.com/in/thiago-araujo-bezerra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
