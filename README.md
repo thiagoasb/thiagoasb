@@ -3,7 +3,7 @@
 
 #### Always learning to became a programmer capable of solve more and more people problems, through programming. 
 
-- 🖥️ Currently I am working as Robotic Automation Process
+- 🖥️ Currently I am working as Robotic Automation Process developer
 - 📚 I am studying mobile development, Kotlin and English
 
 <div>
