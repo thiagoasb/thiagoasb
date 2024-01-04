@@ -3,7 +3,7 @@
 
 #### Always learning to became a programmer capable of solve more and more people problems, through programming. 
 
-- 🖥️ Currently I am working as Robotic Automation Process developer
+- 🖥️ Currently I am working as Front-end and Robotic Automation Process
 - 📚 I am studying mobile development, React-Native and English
 - 📖 I am looking to learn about mobile native languages, like Kotlin (Android) and Swift (IOS)
 
