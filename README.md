@@ -19,7 +19,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </div>
 
-### Status
+### Stats
 
 <div>
    <a href="https://github.com/thiagoasb">
